@@ -1,4 +1,8 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋 
+meu nome é livia dognani.
+Estou estudando na Alura.
+Estou me desenvolvendo na linguagem JavaScript.
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **ldognani/ldognani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
